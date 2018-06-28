@@ -1,0 +1,21 @@
+.tabs-page {
+  .am-navbar {
+    background-color: #fff;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 9999;
+    color: #414141;
+  }
+
+  .am-tab-bar-tab-image {
+    margin-top: 3px;
+    width: 22px;
+    height: 22px;
+  }
+
+  .am-tab-bar-tab-title {
+    font-size: 12px;
+    padding-top: 3px;
+  }
+}
